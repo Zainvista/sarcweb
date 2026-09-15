@@ -146,7 +146,7 @@ a:focus {
 
 @media (max-width: 991.98px) {
     .top-bar .logo {
-        text-align: left;
+        text-align: right;
     }
 }
 
